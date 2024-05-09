@@ -1,0 +1,12 @@
+实验名称：图像的预处理实验
+
+1. 利用opencv中至少两种滤波器对img.png进行滤波，并研究不同的参数如滤波窗口大小对结果的影响。
+可以参考：https://blog.csdn.net/qq_27261889/article/details/80822270
+（当然如果能自己手写滤波那更好）
+
+2. 想办法分析c.jpg的直方图，然后利用PPT中的分段线性灰度变化方法，来对图像进行对比度增强。
+
+
+参考：
+1. Python 使用 pip 安装 matplotlib 模块，https://blog.csdn.net/xyint/article/details/129107802
+2. 如何让pip下载包更快：https://www.bilibili.com/video/BV1i7411b7Z4/?buvid=XXA3F5FA0EBCFCDEE322AD7F811F4D0DC93D3&is_story_h5=false&mid=e6pM7hGIsxszeYKNnF83iA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=bdccc87f-ac61-4cb3-b009-f012367554a8&share_source=COPY&share_tag=s_i&timestamp=1676749082&unique_k=eFu0A1R&up_id=54296062&vd_source=cbba8f514f8af9d29f8e93ef73832321，使用清华的镜像源测试可以，阿里云的镜像源有问题：https://blog.csdn.net/thenorther/article/details/104376561     
